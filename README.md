@@ -3,7 +3,7 @@ is an Angular and .Net Core website for inventory management system for companie
 designed based on the real-life scenario with Angular Material based user interface and it uses MSSQL as the data [Back-End]
 
 
-Anyone can use this code for their own purpose.
+
 
 ## ScreenShots
   <p align="center">
