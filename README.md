@@ -1,11 +1,6 @@
 # Inventory Management System
 is an Angular and .Net Core website for inventory management system for companies which provides as easy way to track requests, approvement of requests , purchases, products, suppliers, customers as well as distribution information. It also records the stock currently available in the store Which contain ease Report management.
-designed based on the real-life scenario with Angular Material based user interface and it uses MSSQL as the data [Back-End](https://github.com/binhussen/Inventory-Management-System-API).
-
-It contains **Two** Repositories as Front-End and Back-end.
-
-1. [Front-End](https://github.com/binhussen/Inventory-Management-System-UI)
-2. [Back-End](https://github.com/binhussen/Inventory-Management-System-API)
+designed based on the real-life scenario with Angular Material based user interface and it uses MSSQL as the data [Back-End]
 
 
 Anyone can use this code for their own purpose.
@@ -57,10 +52,6 @@ Anyone can use this code for their own purpose.
   - Highly-modularized code.
   
 
-## Links
-  - [Twitter](https://twitter.com/binhussens)
-  - [LinkedIn](https://www.linkedin.com/in/binhussen/)
-  - [Github](https://github.com/binhussen)
  
 ## Technologies and Tools
   - Dot Net core (.NET Runtime 5)
